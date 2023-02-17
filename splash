@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+ <style>
+body {
+  background-image: url(/home/egoat/Pictures/deepsearesearchcenter1.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+ <audio autoplay>
+  <source src="Music/%5B210324%5DScions%20&%20Sinners%EF%BC%9AFINAL%20FANTASY%20XIV%20%EF%BD%9E%20Arrangement%20Album%20%EF%BD%9E%5B320K%5D/MP3/01.Piano-%20%E5%86%A5%E3%81%8D%E6%B0%B4%E5%BA%95%20%EF%BD%9E%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%83%88%EF%BC%9A%E6%B7%B1%E9%83%A8%EF%BD%9E.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+<p style="color:orange; text-align:right; font-family:helvetica; font-size:200%;">
+<strong> Go home. </strong>
+</p>
+</body>
+</html>
