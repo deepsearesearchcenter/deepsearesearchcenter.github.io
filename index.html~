@@ -15,7 +15,9 @@ body {
 </head>
 <body>
 <p style="color:orange; text-align:right; font-family:helvetica; font-size:200%;">
+<span style="background-color:#ffffff">
 <a href="/toc"><strong> Go home. </strong></a>
+</span>
 </p>
 </body>
 </html>
